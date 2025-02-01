@@ -1,0 +1,7 @@
+# Intermediate directories
+outputs/
+condor_submission/
+plots/
+
+# ROOT files
+*.root
