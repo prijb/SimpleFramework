@@ -1,7 +1,6 @@
 # SimpleFramework
 Simple framework for processing files throuhg htcondor.
 
-</br>
 Setup in `CMSSW_14_0_6_patch1` (requires a valid voms account)
 ```
 cmsrel CMSSW_14_0_6_patch1
